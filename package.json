@@ -1,6 +1,6 @@
 {
   "name": "middlewarefy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add middlewares to any function in your code.",
   "main": "dist/index.js",
   "module": "dist/index.js",
