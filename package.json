@@ -2,7 +2,9 @@
   "name": "middlewarefy",
   "version": "1.0.0",
   "description": "Add middlewares to any function in your code.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "mocha --require ts-node/register test/*"
