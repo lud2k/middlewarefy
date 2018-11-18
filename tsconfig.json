@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declarationDir": "dist",
+    "outDir": "dist",
+    "allowJs": false,
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "module": "commonjs",
+    "declaration": true,
+    "target": "es6"
+  },
+  "include": ["src/index.ts"]
+}
+
